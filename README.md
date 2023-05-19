@@ -36,4 +36,28 @@ Explore and analyze the data to discover important factors that govern the booki
 # Technologies used
 * IDE - Google Colab
 
-**Goal: The main objective is to discover important factors that analyzed bike sharing demand.
+**Goal: The main objective is to discover important factors that analyzed bike sharing demand.**
+
+# Project Work flow
+1. Importing Libraries
+
+2. Loading the Dataset
+
+3. Data Cleaning
+
+4. Handling Outliers
+
+5. Data Visualization
+
+6. Conclusion
+
+# Conclusion
+* Linear Regression, Lasso Regression, Ridge Regression, Elastic Net Regression performance is almost same on both training data and test data which is likely 60% but this is not sufficient
+
+* Decision Tree performance is around 90% on training data and 85% on test data in both case before tuning and after tuning
+
+* Xtreme Gradient Boosting performane is good but the test accuracy is not much as compare to Random Forest
+
+* Random Forest performance is very good on training data that means it tends to overfit on training data but also his test accuracy is very good which is highest in all comperision. But after tuning the hyperparameter its performace goes down
+
+* Default Values of Random Forest algorithm is performing very good with 98% accuracy on training data and 91% accuracy on test data So i choose Random Forest for this dataset
