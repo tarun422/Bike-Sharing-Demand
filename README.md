@@ -61,3 +61,6 @@ Explore and analyze the data to discover important factors that govern the booki
 * Random Forest performance is very good on training data that means it tends to overfit on training data but also his test accuracy is very good which is highest in all comperision. But after tuning the hyperparameter its performace goes down
 
 * Default Values of Random Forest algorithm is performing very good with 98% accuracy on training data and 91% accuracy on test data So i choose Random Forest for this dataset
+
+![01675567752015](https://github.com/tarun422/Bike-Sharing-Demand/assets/81609862/1df7d9c0-21f3-48fa-be12-60c32b8ec157)
+
